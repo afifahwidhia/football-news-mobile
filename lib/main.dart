@@ -5,7 +5,7 @@ import 'package:provider/provider.dart';
 import 'package:football_news/screens/login.dart';
 
 // Test Trigger
-// fix build trigger
+// Test Trigger Lagi
 void main() {
   runApp(const MyApp());
 }
